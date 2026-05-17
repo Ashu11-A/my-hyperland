@@ -49,13 +49,12 @@ dropdown-freeze-label = true
 [[bar.layout]]
 monitor = "*"
 show = true
-left = ["media"]
+left = ["cava", "media", "hyprland-workspaces"]
 center = ["clock"]
 right = [
     "battery",
     "bluetooth",
     "network",
-    "microphone",
     "volume",
     "dashboard",
 ]
